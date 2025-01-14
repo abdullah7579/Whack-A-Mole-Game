@@ -1,2 +1,1 @@
-# Whack-A-Mole-Game
-Whack A Mole Game implementing Digital Logic Design Concepts
+This project replicates the classic arcade Whack-a-Mole game using basic electronic components. It features randomly activated LEDs as "moles" and push buttons for player interaction. A 7-segment display tracks scores in real-time. The circuit leverages 555 timers, logic gates, and counters for randomization and control. The project provides a cost-effective, interactive gaming experience, ideal for learning about timing, logic, and basic circuit design. Future enhancements include expanded functionality and additional gameplay features.
